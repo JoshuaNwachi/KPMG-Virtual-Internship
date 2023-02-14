@@ -29,7 +29,7 @@ RFM analysis and customer classification will be used to determine which custome
 
 * Scatter-plot based off RFM Analysis
 * Customer title definition list with RFM values assigned
-## Interpretation Introduction
+## Summary of Findings
 The following insights can be drawn from the data analysis and model development:
 
 * Most customers are aged between 40-49 in both New and Old customers
